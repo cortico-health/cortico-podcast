@@ -1,10 +1,6 @@
-# Type Theme
+# Cortico Podcast Site
 
-![Default Type Theme blog](https://user-images.githubusercontent.com/816965/30518919-d5978024-9bcd-11e7-81b3-3dd07e99a1f9.png)
-
-A free and open-source [Jekyll](https://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-[Demo](https://rohanchandra.github.io/type-theme/)
+The site is based off a free and open-source [Jekyll](https://jekyllrb.com) theme. See the [Type Theme repo here.](https://github.com/rohanchandra/type-theme) See its generic [demo here.](https://rohanchandra.github.io/type-theme/)
 
 ## Usage
 
