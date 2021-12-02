@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/cortico-podcast"
-url: "https://xymu.github.io"
+url: "https://cortico-health.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -26,7 +26,7 @@ theme_settings:
   facebook: "corticosoftware"
   flickr:
   gitlab:
-  github: "xymu/cortico-podcast"
+  github: "cortico-health/cortico-podcast"
   gitter:
   google_plus:
   instagram:
