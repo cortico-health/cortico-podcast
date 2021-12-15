@@ -9,8 +9,8 @@ This website hosts the podcasts for [Cortico Health Technologies](https://cortic
 Please find us wherever you get your podcasts:
 
 * [Amazon Music](https://music.amazon.com/podcasts/a78dffa2-bfe4-4dc2-9e81-e16b6c8a00e6)
-* Pending - [Apple]()
-* Pending - [Google Podcasts]()
+* [Apple Podcasts](https://podcasts.apple.com/podcast/cortico-health-technologies-podcast/id1598415656)
+* [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3J0aWNvLWhlYWx0aC5naXRodWIuaW8vY29ydGljby1wb2RjYXN0L3BvZGNhc3QucnNz)
 * [Spotify](https://open.spotify.com/show/5U007qsCkUF3ZXmdmi15m9)
 * Pending - [TuneIn](https://tunein.com/)
 * [Anchor](https://anchor.fm/cortico)
