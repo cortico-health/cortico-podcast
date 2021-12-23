@@ -12,7 +12,8 @@ Please find us wherever you get your podcasts:
 * [Apple Podcasts](https://podcasts.apple.com/podcast/cortico-health-technologies-podcast/id1598415656)
 * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3J0aWNvLWhlYWx0aC5naXRodWIuaW8vY29ydGljby1wb2RjYXN0L3BvZGNhc3QucnNz)
 * [Spotify](https://open.spotify.com/show/5U007qsCkUF3ZXmdmi15m9)
-* Pending - [TuneIn](https://tunein.com/)
+* [TuneIn](https://tunein.com/podcasts/p1588962/)
+<iframe src="https://tunein.com/embed/player/p1588962/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
 * [Anchor](https://anchor.fm/cortico)
 * [Breaker](https://www.breaker.audio/cortico-health/)
 * [Castbox](https://castbox.fm/ch/4692943)
