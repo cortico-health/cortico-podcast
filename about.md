@@ -13,13 +13,13 @@ Please find us wherever you get your podcasts:
 [![Amazon Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/AmazonPodcasts.png)](https://music.amazon.com/podcasts/a78dffa2-bfe4-4dc2-9e81-e16b6c8a00e6)
 * [Apple Podcasts](https://podcasts.apple.com/podcast/cortico-health-technologies-podcast/id1598415656)
 
-[![Apple Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/ApplePodcasts.svg)](https://podcasts.apple.com/podcast/cortico-health-technologies-podcast/id1598415656)
+[![Apple Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/ApplePodcasts.svg)](https://podcasts.apple.com/podcast/cortico-health-technologies-podcast/id1598415656){:width="246px"}
 * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3J0aWNvLWhlYWx0aC5naXRodWIuaW8vY29ydGljby1wb2RjYXN0L3BvZGNhc3QucnNz)
 
-[![Google Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/GooglePodcasts.svg)](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3J0aWNvLWhlYWx0aC5naXRodWIuaW8vY29ydGljby1wb2RjYXN0L3BvZGNhc3QucnNz)
+[![Google Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/GooglePodcasts.svg)](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3J0aWNvLWhlYWx0aC5naXRodWIuaW8vY29ydGljby1wb2RjYXN0L3BvZGNhc3QucnNz){:width="246px"}
 * [Spotify](https://open.spotify.com/show/5U007qsCkUF3ZXmdmi15m9)
 
-[![Spotify Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/SpotifyPodcasts.svg)](https://open.spotify.com/show/5U007qsCkUF3ZXmdmi15m9)
+[![Spotify Podcasts]({{ site.url }}{{ site.baseurl }}/assets/img/SpotifyPodcasts.svg)](https://open.spotify.com/show/5U007qsCkUF3ZXmdmi15m9){:width="246px"}
 * [TuneIn](https://tunein.com/podcasts/p1588962/)
 <iframe src="https://tunein.com/embed/player/p1588962/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
 * [Anchor](https://anchor.fm/cortico)
