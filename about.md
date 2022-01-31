@@ -27,6 +27,7 @@ Please find us wherever you get your podcasts:
 * [Castbox](https://castbox.fm/ch/4692943)
 * [Deezer](https://deezer.com/show/3204172)
 * [iHeart](https://iheart.com/podcast/89981679/)
+<iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/podcast/269-cortico-health-technologie-89981679/?embed=true" frameborder="0"></iframe>
 * [Listen Notes](https://www.listennotes.com/podcasts/cortico-health-technologies-podcast-cortico-iqXR_Yz-wNe/)
 * Pending - [Pandora]()
 * [PlayerFM](https://player.fm/series/cortico-health-technologies-podcast)
@@ -34,7 +35,9 @@ Please find us wherever you get your podcasts:
 * [Podbean](https://cortico.podbean.com)
 * [Podcast Addict](https://podcastaddict.com/podcast/3731981)
 * [RadioPublic](https://radiopublic.com/cortico-health-technologies-podca-6BgRQY)
+<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling="no" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=cortico-health-technologies-podca-6BgRQY"></iframe>
 * [Stitcher](https://www.stitcher.com/show/669251)
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/669251" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
 You can also manually add the podcast into your favourite podcast app using the following link:
 
