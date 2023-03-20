@@ -28,7 +28,7 @@ Please find us wherever you get your podcasts:
 * [iHeart](https://iheart.com/podcast/89981679/)
 <iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/podcast/269-cortico-health-technologie-89981679/?embed=true" frameborder="0"></iframe>
 * [Listen Notes](https://www.listennotes.com/podcasts/cortico-health-technologies-podcast-cortico-iqXR_Yz-wNe/)
-* Pending - [Pandora]()
+* [Pandora](https://www.pandora.com/podcast/cortico-health-technologies-podcast/PC:1000669251)
 * [PlayerFM](https://player.fm/series/cortico-health-technologies-podcast)
 * [PocketCasts](https://pca.st/vn8a5oet)
 * [Podbean](https://cortico.podbean.com)
