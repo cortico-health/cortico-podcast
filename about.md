@@ -23,7 +23,7 @@ Please find us wherever you get your podcasts:
 * [TuneIn](https://tunein.com/podcasts/p1588962/)
 <iframe src="https://tunein.com/embed/player/p1588962/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
 * [Anchor](https://anchor.fm/cortico)
-* [Castbox](https://castbox.fm/ch/4692943)
+* [Castbox](https://castbox.fm/channel/5198438)
 * [Deezer](https://deezer.com/show/3204172)
 * [iHeart](https://iheart.com/podcast/89981679/)
 <iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/podcast/269-cortico-health-technologie-89981679/?embed=true" frameborder="0"></iframe>
